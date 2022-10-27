@@ -1,10 +1,16 @@
 {
-  "name": "UcuWTLpuvRfPXlILPwNTMEef01CrasNxwskuMcELvcgJ0qZaIv",
+  "name": "กบไชโย pantip เลือกยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "กบไชโย pantip ท่านสามารถ เพื่อ กบไชโย pantip ที่ Jetsadabet เว็บหวยออนไลน์ อันดับหนึ่ง ติดตาม ข้อมูล ข่าวสาร เกี่ยวกับ หวยสิงคโปร์ หวยหุ้นสิงคโปร์ เลขเด็ดว",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["กบไชโย PANTIP","กบไชโย","PANTIP","กบไชโย Jetsadabet","PANTIP Jetsadabet"],
+  "keywords": [
+    "กบไชโย PANTIP",
+    "กบไชโย",
+    "PANTIP",
+    "กบไชโย Jetsadabet",
+    "PANTIP Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
