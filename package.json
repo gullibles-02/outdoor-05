@@ -1,10 +1,16 @@
 {
-  "name": "ffsZN1K4w8Cj2v9WjFaQJhCpUhMXp5C9TWFQFYO4TRGU8qK1Re",
+  "name": "ติดต่อ เว็บแทงหวย24 สรุปว่าอะไร - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.30",
   "description": "ติดต่อ เว็บแทงหวย24 ผลการออกรางวัลสลากออมสิน ทว่า ติดต่อ เว็บแทงหวย24 ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง พิเศษ 5 ปี งวด 2 พฤษภาคม 2566 แนวทางหวยออมสิ",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["ติดต่อ เว็บแทงหวย24","ติดต่อ","เว็บแทงหวย24","ติดต่อ Thailotto","เว็บแทงหวย24 Thailotto"],
+  "keywords": [
+    "ติดต่อ เว็บแทงหวย24",
+    "ติดต่อ",
+    "เว็บแทงหวย24",
+    "ติดต่อ Thailotto",
+    "เว็บแทงหวย24 Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
