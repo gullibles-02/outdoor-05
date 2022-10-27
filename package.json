@@ -1,13 +1,10 @@
 {
-  "name": "เว็บหวยruay สรุปว่าอะไร - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "3XTrmkclAaaXaTXsvFpFUINuIcB9QkViY78JcMEHj5FNffk8On",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เว็บหวยruay เลข เว็บหวยruay โดย เว็บหวยruay Ruay หวยออนไลน์ อันดับหนึ่ง 2 ตัว 08 07 87ฟัน 0ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่ะเลข 3 ตัว         708",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": [
-    "เว็บหวยRUAY",
-    "เว็บหวยRUAY Ruay"
-  ],
+  "keywords": ["เว็บหวยRUAY","เว็บหวยRUAY Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
