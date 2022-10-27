@@ -1,13 +1,10 @@
 {
-  "name": "สูตรยี่กี เล่นที่ไหน - เว็บใหม่ kerry899 2023 ล่าสุด",
+  "name": "8v6RRdaNZuvmNnZNY1vYWioOHWZ72TZUshsF20z0rkyzrNBJWo",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "สูตรยี่กี และข้อมูล ทั้งนี้ สูตรยี่กี Kerry899 หวยออนไลน์ อันดับหนึ่ง สูตรยี่กี ข้างต้น เป็นตัวอย่าง อัตราการจ่าย หุ้นอียิปต์ในไทยที่ทางทีมงานได้นำมาเป็นตั",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": [
-    "สูตรยี่กี",
-    "สูตรยี่กี Kerry899"
-  ],
+  "keywords": ["สูตรยี่กี","สูตรยี่กี Kerry899"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
