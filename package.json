@@ -1,10 +1,16 @@
 {
-  "name": "66GGuqslgUhzUVhbiBdawYhAUZCGFG0xM6cmb9Qq3oaijqmlfg",
+  "name": "หวย happy เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.37",
   "description": "หวย HAPPY ถ้าอยากเช็คผลหวยหุ้นไทยแบบอัพเดทไวทุกวัน แม้น หวย HAPPY ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง หวย HAPPY สามารถอ่านบทความนี้ได้เลยครับ รวบรวมผลหว",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["หวย HAPPY","หวย","HAPPY","หวย Huaysod","HAPPY Huaysod"],
+  "keywords": [
+    "หวย HAPPY",
+    "หวย",
+    "HAPPY",
+    "หวย Huaysod",
+    "HAPPY Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
