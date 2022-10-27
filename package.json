@@ -1,10 +1,13 @@
 {
-  "name": "68eTWmY7DSA7No6EyyYbTAOs1FZ79lN5BgqfHMIALiPx0yKIoj",
+  "name": "ตรวจหวย16565 สมัครยังไง - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.31",
   "description": "ตรวจหวย16/5/65 หวยหุ้นเกาหลีออกอะไร ถึง ตรวจหวย16/5/65 Huay หวย หวยออนไลน์ มีหวยทุกชนิด ดูหลรางวัลอย่างไร มาศีกษากันได้ที่นี่วิธีการดูผลรางวัลของหวยหุ้นเกา",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["ตรวจหวย16/5/65","ตรวจหวย16/5/65 Huay"],
+  "keywords": [
+    "ตรวจหวย16/5/65",
+    "ตรวจหวย16/5/65 Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
