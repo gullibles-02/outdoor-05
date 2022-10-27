@@ -1,10 +1,16 @@
 {
-  "name": "UdvUzfMfZ2ErAbptXQBgEADcT4Wg9VEz3x8EEpSviLSbPxHi7l",
+  "name": "หุ้นเยอรมัน tradingview ทำไมถึงนิยม - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.32",
   "description": "หุ้นเยอรมัน TradingView ขั้นที่ แต่ว่า หุ้นเยอรมัน TradingView Kerry899 เคอร์รี่899 หวยออนไลน์ มีหวยทุกชนิด 3 นำเลข 2 + 5 + 8 13 ตัดออกเหลือ 3นำตัวเลขมาแทน",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["หุ้นเยอรมัน TRADINGVIEW","หุ้นเยอรมัน","TRADINGVIEW","หุ้นเยอรมัน Kerry899","TRADINGVIEW Kerry899"],
+  "keywords": [
+    "หุ้นเยอรมัน TRADINGVIEW",
+    "หุ้นเยอรมัน",
+    "TRADINGVIEW",
+    "หุ้นเยอรมัน Kerry899",
+    "TRADINGVIEW Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
