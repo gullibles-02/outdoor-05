@@ -1,10 +1,13 @@
 {
-  "name": "ffsZN1K4w8Cj2v9WjFaQJhCpUhMXp5C9TWFQFYO4TRGU8qK1Re",
+  "name": "ตรวจหวย16พฤษภาคม64 สมัครยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.29",
   "description": "ตรวจหวย16พฤษภาคม64 เลขเด็ดงวดนี้ จนถึง ตรวจหวย16พฤษภาคม64 Huay Happy หวยออนไลน์ อันดับหนึ่ง เว็บไซต์หวยไทยของเราขอนำเสนอชุดแนวทางหวยรัฐบาลที่น่าสนใจ และมีค",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["ตรวจหวย16พฤษภาคม64","ตรวจหวย16พฤษภาคม64 Huay Happy"],
+  "keywords": [
+    "ตรวจหวย16พฤษภาคม64",
+    "ตรวจหวย16พฤษภาคม64 Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
