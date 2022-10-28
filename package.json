@@ -1,10 +1,13 @@
 {
-  "name": "Qs5BpiEWxPzP3PXzyz6dZMgRrrkdOGgh3blTZiXkJQneywmO9c",
+  "name": "หุ้นเกาหลีย้อนหลังรวย สรุปว่าอะไร - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.57",
   "description": "หุ้นเกาหลีย้อนหลังรวย จะเห็นได้ว่า หาก หุ้นเกาหลีย้อนหลังรวย Kerry899 หวยออนไลน์ อันดับหนึ่ง การเดิมพันเกมหัวก้อย หรือเกมปั่นแปะนั้น เป็นการเดิมกันแบบ 1-1 ",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["หุ้นเกาหลีย้อนหลังรวย","หุ้นเกาหลีย้อนหลังรวย Kerry899"],
+  "keywords": [
+    "หุ้นเกาหลีย้อนหลังรวย",
+    "หุ้นเกาหลีย้อนหลังรวย Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
