@@ -1,10 +1,18 @@
 {
-  "name": "mbx4dEAZW0CM08YVYDJ6ukiqlZvhSBShn6WMQtmWmKR3wzSSha",
+  "name": "สูตร คำนวณ หวยโบราณ ดูยังไง - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "สูตร คำนวณ หวยโบราณ บนเด่น ครั้น สูตร คำนวณ หวยโบราณ ที่ 77Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 8 รอง 5 สูตร คำนวณ หวยโบราณ ได้ชุดเลข 3 ตัว และ 2 ตัว ดังนี้348",
   "repository": "https://github.com/gullibles-02/outdoor-05",
-  "keywords": ["สูตร คำนวณ หวยโบราณ","สูตร","คำนวณ","หวยโบราณ","สูตร 77Lotto","คำนวณ 77Lotto","หวยโบราณ 77Lotto"],
+  "keywords": [
+    "สูตร คำนวณ หวยโบราณ",
+    "สูตร",
+    "คำนวณ",
+    "หวยโบราณ",
+    "สูตร 77Lotto",
+    "คำนวณ 77Lotto",
+    "หวยโบราณ 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
